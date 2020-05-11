@@ -144,7 +144,9 @@ button:focus {
     display: block;
 }
 
-
+.top{
+    color:white!important;
+}
 /*==========================
         2.HELPER
 ============================*/
