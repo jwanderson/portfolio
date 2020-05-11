@@ -147,6 +147,7 @@ button:focus {
 .top{
     color: white!important;
     margin-bottom: 10px!important;
+    line-height: 35px!important;
 }
 a{
     color: white!important;
