@@ -306,7 +306,10 @@ a{
 .custom-nav.stickyadd .navbar-nav li a {
     color: #000 !important;
 }
-
+.barger{
+    height: 35px;
+    width: 35px;
+}
 
 /*===========================
         4.HOME
