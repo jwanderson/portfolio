@@ -251,6 +251,10 @@ img.mfp-img {
   padding: 40px 0 40px;
   margin: 0 auto; }
 
+img.mfp-img:nth-child(5){
+  height: 2000px!important;
+}
+
 img.mfp-img1 {
   width: auto;
   max-width: 100%;
@@ -263,7 +267,6 @@ img.mfp-img1 {
   box-sizing: border-box;
   padding: 40px 0 40px;
   margin: 0 auto;
-
 }
 
 /* The shadow behind the image */
