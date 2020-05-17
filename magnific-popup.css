@@ -251,6 +251,21 @@ img.mfp-img {
   padding: 40px 0 40px;
   margin: 0 auto; }
 
+img.mfp-img1 {
+  width: auto;
+  max-width: 100%;
+  height: 2000px;
+  max-height: 3000px!important;
+  display: block;
+  line-height: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 40px 0 40px;
+  margin: 0 auto;
+
+}
+
 /* The shadow behind the image */
 .mfp-figure {
   line-height: 0; }
